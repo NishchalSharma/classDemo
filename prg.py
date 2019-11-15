@@ -1,6 +1,6 @@
 #My new Python program
 
-def f():
+def f(num):
     print("hello world")
     def number(num1,num2,num3):
     if num1 >=num2 and num1 >=num3:
